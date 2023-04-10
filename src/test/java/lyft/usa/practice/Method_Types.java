@@ -1,4 +1,4 @@
-package com.usa.practice;
+package lyft.usa.practice;
 
 public class Method_Types {
 	

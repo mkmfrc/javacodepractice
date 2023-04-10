@@ -1,6 +1,11 @@
-package com.usa.practice;
+package lyft.usa.practice;
 
 public class Human {
+	
+	static int rafi = 1000; 
+	
+	int saffan = 1000; 
+	
 	
 	//this is a main method
 	public static void main(String[] args) {
@@ -13,8 +18,8 @@ System.out.println("hello java");
 //1.  need to understand the VALUE
 //2. Data Type
 //3. variable
-
-
+	
+	
 	int initialDeposit = 1500;
 	int wid = 50;
 	int deposit = 200;
@@ -22,6 +27,17 @@ System.out.println("hello java");
 	
 	System.out.println(totalBalance);
 			
+	
+	
+	
+	//Creating a method 
+	//1. Signature
+	//2. ( )
+	//3. { }
+	//4. Void/DataType
+	//void getSalary(){
+	
+	
 	}
 
 }

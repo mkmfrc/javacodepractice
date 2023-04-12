@@ -9,7 +9,7 @@ public abstract class abst_Class {
 		System.out.println("concrete method salary"); //concrete method
 	}
 	
-	public abstract void getPayment(); //abstract method
-	
+	//public abstract void getPayment(); //abstract method
+
 	
 }

@@ -2,14 +2,10 @@ package com.us.abstruction;
 
 public class abst_exe extends abst_Class {
 
-	
-	
-	@Override
-	public void getPayment() {
-		System.out.println("our abstract method is now a concrete method");
+	private void getPayment() {
+		// TODO Auto-generated method stub
 		
 	}
-	
 	
 	public static void main(String[] args) {
 		abst_exe obj = new abst_exe();				//this is new object
@@ -18,7 +14,5 @@ public class abst_exe extends abst_Class {
 		obj.getSalary();
 
 	}
-
 	
-
 }

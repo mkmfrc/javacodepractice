@@ -19,6 +19,6 @@ public class Constrtr {
 	public static void main(String[] args) {
 		
 		Constrtr obj= new Constrtr("rakib", 15000);
-		obj.getMethod();
+		//obj= new Constrtr();
 	}
 }
